@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494693843179",
+    "project_id": "gamers-multiverse",
+    "storage_bucket": "gamers-multiverse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494693843179:android:8ef325b500ef5e750fbeae",
+        "android_client_info": {
+          "package_name": "gamersmultiverse.gamersmultiverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494693843179-k31g7n1muljec9h633hces2jdbl95i4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCHnAmmmzpEg5D9l_yFg8aOLzF7eP7xZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494693843179-k31g7n1muljec9h633hces2jdbl95i4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
